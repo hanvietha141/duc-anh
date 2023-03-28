@@ -1,0 +1,97 @@
+export const initialData = {
+  feature: [
+    {
+      id: 'article0',
+      content: 'article 0',
+      canDrag: false,
+      index: 0,
+      row: 'feature',
+    },
+    {
+      id: 'article1',
+      content: 'article 1',
+      canDrag: false,
+      index: 1,
+      row: 'feature',
+    },
+    {
+      id: 'article2',
+      content: 'article 2',
+      canDrag: false,
+      index: 2,
+      row: 'feature',
+    },
+    {
+      id: 'article3',
+      content: 'article 3',
+      canDrag: false,
+      index: 3,
+      row: 'feature',
+    },
+  ],
+  news: [
+    {
+      id: 'article4',
+      content: 'article 4',
+      canDrag: false,
+      index: 0,
+      row: 'news',
+    },
+    {
+      id: 'article5',
+      content: 'article 5',
+      canDrag: false,
+      index: 1,
+      row: 'news',
+    },
+    {
+      id: 'article6',
+      content: 'article 6',
+      canDrag: false,
+      index: 2,
+      row: 'news',
+    },
+    {
+      id: 'article7',
+      content: 'article 7',
+      canDrag: false,
+      index: 3,
+      row: 'news',
+    },
+  ],
+  horsesForSale: [
+    {
+      id: 'article8',
+      content: 'article 8',
+      canDrag: false,
+      index: 0,
+      row: 'horsesForSale',
+    },
+    {
+      id: 'article9',
+      content: 'article 9',
+      canDrag: false,
+      index: 1,
+      row: 'horsesForSale',
+    },
+    {
+      id: 'article10',
+      content: 'article 10',
+      canDrag: false,
+      index: 2,
+      row: 'horsesForSale',
+    },
+    {
+      id: 'article11',
+      content: 'article 11',
+      canDrag: false,
+      index: 3,
+      row: 'horsesForSale',
+    },
+  ],
+  rowOrder: [
+    { id: 'feature', label: 'Feature' },
+    { id: 'news', label: 'News' },
+    { id: 'horsesForSale', label: 'Horses For Sale' },
+  ],
+};
